@@ -92,6 +92,7 @@ We implemented an **online player re-identification pipeline** using:
 
 ---
 
+
 ## ✅ Summary
 
 This project implements a real-time player and ball re-identification system using YOLOv11 + TorchReID + a custom online tracker. It produces stable IDs for many players and maintains modular, scalable architecture. With additional training and smarter association logic, it can achieve production-grade reliability.
