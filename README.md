@@ -30,7 +30,7 @@ LIAT_Assignment/
 ├── .gitignore                 # Ignores venv, outputs, large files
 ├── requirements.txt           # All Python dependencies
 ├── README.md                  # Setup instructions + run guide
-├── report.md                  # Methodology, experiments, challenges
+├── report.md                  # Approach, Proposed Solutions, challenges
 ├── main.py                    # Pipeline entry point
 └── .gitattributes             # (optional) Git LFS config if still tracked
 ```
