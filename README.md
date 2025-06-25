@@ -69,8 +69,10 @@ You can directly view the ouput video without running the program also
 
 5. **Download model**:
    ```
-   Create a folder name models inside your project "LIAT_Assignment" and then download the model (.pt) file and put it in models folder
-   Here is the model download link : https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+   - Create a folder name models inside your project "LIAT_Assignment" and
+      then download the model (.pt) file and put it in models folder
+   - Here is the model download link :
+      https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
 
    I attached the project structure also, you can check from the top.
 
