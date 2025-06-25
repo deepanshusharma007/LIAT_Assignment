@@ -33,7 +33,7 @@ We implemented an **online player re-identification pipeline** using:
 ### ✅ Final Rendering
 - Bounding boxes are drawn with consistent IDs.
 - A CSV log (`player_id_tracking.csv`) records every player ID and position per frame.
-- The output video is saved as `outputs/reid_output_offline.mp4`.
+- The output video is saved as `outputs/reid_output.mp4`.
 
 ---
 
