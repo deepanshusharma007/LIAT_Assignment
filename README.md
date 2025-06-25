@@ -18,8 +18,7 @@ LIAT_Assignment/
 │   └── 15sec_input_720p.mp4   # Input match video
 │
 ├── outputs/
-│   ├── reid_output_offline.mp4     # Final output video (offline re-ID)
-│   └── player_id_tracking.csv      # CSV log of global IDs per frame
+│   ├── reid_output.mp4     # Final output video (offline re-ID)
 │
 ├── src/
 │   ├── detector.py            # YOLOv11-based object detector
