@@ -9,7 +9,7 @@ This project performs player and ball re-identification in football match videos
 ---
 
 ## Project Structure
-
+```
 LIAT_Assignment/
 ├── models/
 │   └── best.pt                # ⚠️ NOT included in repo — downloadable separately
@@ -34,7 +34,7 @@ LIAT_Assignment/
 ├── report.md                  # Methodology, experiments, challenges
 ├── main.py                    # Pipeline entry point
 └── .gitattributes             # (optional) Git LFS config if still tracked
-
+```
 ---
 
 ## ⚙️ Setup & Execution (5 Steps Only)
