@@ -36,6 +36,15 @@ LIAT_Assignment/
 ```
 ---
 
+## OUTPUT
+```
+You can directly view the ouput video without running the program also
+1. Go inside outputs folder
+2. You can see already generated output video for analysis
+```
+
+---
+
 ## ⚙️ Setup & Execution (5 Steps Only)
 
 1. **Clone the repository**:
